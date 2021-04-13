@@ -1,4 +1,5 @@
-### Hi there 👋
+### Hi, I'm Egor 👋
+I'm a 21 year old Ruby, Ruby on Rails developer, Swift fan, creator of https://skaffer.app ✨
 
 <!--
 **eiskrenkov/eiskrenkov** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
